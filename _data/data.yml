@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      [**You can download my CV here**](CV.pdf).
+      [**My CV here**](CV.pdf).
       
       I am a member of ACM honored Class, an elite CS program for top 5% talented students.
       My reserch interests lie in Machine Learning, especially Reinforcement Learning and Deep Learning.
@@ -61,7 +61,7 @@ experiences:
           - Advised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu.](http://apex.sjtu.edu.cn/members/yyu)
           - Focusing in reinforcement learning method for multi-agent.
 
-    - role: Senior Software Engineer
+    - role: Teaching Assistant
       time: Fall 2017
       company: Shanghai Jiao Tong University
       details: |
@@ -77,15 +77,15 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 
-publications:
-    title: Publications
-    intro: |
-      ...
+#publications:
+#    title: Publications
+#    intro: |
+#      ...
 
-    papers:
-      - title: title
-        authors: authors
-        conference: conference
+#    papers:
+#      - title: title
+#        authors: authors
+#        conference: conference
 
 
 skills:
