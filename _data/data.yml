@@ -1,0 +1,107 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jingxiao chen
+    tagline: Student
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    CV: cv.pdf
+    email: knosikay@gmail.com
+    phone: (86)13262629087
+    website: blog.webjeda.com #do not add http://
+    linkedin: 
+    github: TimerChen
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: Chinese
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+        
+    interests:
+      - item: Music
+        link:
+
+
+career-profile:
+    title: Career Profile
+    summary: |
+      [**You can download my CV here**](CV.pdf).
+      
+      I am a member of ACM honored Class, an elite CS program for top 5% talented students.
+      My reserch interests lie in Machine Learning, especially Reinforcement Learning and Deep Learning.
+      
+      I plan to apply for CS PhD programs that starts in Fall 2020.
+
+education:
+    - degree: BSc in Computer Science
+      university: Shanghai Jiao Tong University
+      time: 2016 - Present
+      details: |
+        details...
+
+experiences:
+    - role: Undergraduate Researcher
+      time: 2018 - Present
+      company: APEX Data & Knowledge Management Lab
+      details: |
+          - Advised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu.](http://apex.sjtu.edu.cn/members/yyu)
+          - Focusing in reinforcement learning method for multi-agent.
+
+    - role: Senior Software Engineer
+      time: Fall 2017
+      company: Shanghai Jiao Tong University
+      details: |
+          - In charge of \href{https://github.com/TimerChen/STG_Game}{a course project}, which is to develop a shooting game in C++.
+          - Gave some lectures and prepared assignments and exams.
+projects:
+    title: Projects
+    intro: >
+      My projects here.
+    assignments:
+      - title: Mx Compiler
+        link: "https://github.com/TimerChen/MxCompiler"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+publications:
+    title: Publications
+    intro: |
+      ...
+
+    papers:
+      - title: title
+        authors: authors
+        conference: conference
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C++
+        level: 98%
+
+      - name: Python
+        level: 98%
+        
+      - name: Java
+        level: 98%
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
