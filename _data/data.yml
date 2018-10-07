@@ -12,10 +12,9 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    CV: cv.pdf
     email: knosikay@gmail.com
     phone: (86)13262629087
-    website: blog.webjeda.com #do not add http://
+    website: timerchen.github.io #do not add http://
     linkedin: 
     github: TimerChen
     gitlab:
@@ -29,7 +28,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Fluent
 
         
     interests:
@@ -66,7 +65,7 @@ experiences:
       time: Fall 2017
       company: Shanghai Jiao Tong University
       details: |
-          - In charge of \href{https://github.com/TimerChen/STG_Game}{a course project}, which is to develop a shooting game in C++.
+          - In charge of [a course project](https://github.com/TimerChen/STG_Game), which is to develop a shooting game in C++
           - Gave some lectures and prepared assignments and exams.
 projects:
     title: Projects
@@ -94,13 +93,13 @@ skills:
 
     toolset:
       - name: C++
-        level: 98%
+        level: 90%
 
       - name: Python
-        level: 98%
+        level: 70%
         
       - name: Java
-        level: 98%
+        level: 80%
 
 
 footer: >
