@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"PromptDA":
   color: "#00369f"
+  url: https://promptda.github.io/
 
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+"RHINO":
   color: "#009f36"
+  url: https://promptda.github.io/
+
+"HoK Env":
+  color: "#009f36"
+  url: https://github.com/tencent-ailab/hok_env/
