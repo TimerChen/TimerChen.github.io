@@ -27,7 +27,6 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 4th year Ph.D. student at Shanghai Jiao Tong University advised by Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu).I obtained a bachelor’s degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University.
+I am a fourth-year Ph.D. student at Shanghai Jiao Tong University, advised by Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu). I hold a bachelor’s degree from the [ACM Honors Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University.
 
-My interests lie primarily in Machine Learning, particularly Deep Reinforcement Learning in Multi-Agent Systems. I am also intrigued by
-the application of machine learning in the development of intelligent robotics, especially in the area of human-robot interactions.
+My research interests primarily lie in **machine learning**, with a focus on **deep reinforcement learning in multi-agent systems**. I am also deeply intrigued by the application of machine learning in the development of intelligent robotics, particularly in the area of **human-robot interaction**.
