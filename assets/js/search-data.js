@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-our-paper-rhino-has-been-accepted-to-iros-2026",
-          title: 'Our paper RHINO has been accepted to IROS 2026! 🎉',
-          description: "",
-          section: "News",},{id: "news-our-paper-offline-fictitious-self-play-for-competitive-games-has-been-accepted-to-aaai-2026-as-an-oral-presentation",
+        },{id: "news-our-paper-offline-fictitious-self-play-for-competitive-games-has-been-accepted-to-aaai-2026-as-an-oral-presentation",
           title: 'Our paper Offline Fictitious Self-Play for Competitive Games has been accepted to AAAI...',
+          description: "",
+          section: "News",},{id: "news-our-paper-rhino-has-been-accepted-to-iros-2026",
+          title: 'Our paper RHINO has been accepted to IROS 2026! 🎉',
           description: "",
           section: "News",},{
         id: 'social-email',
