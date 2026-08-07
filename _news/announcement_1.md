@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2026-08-07 00:00:00-0000
+date: 2026-06-16
+date_format: "%b %Y"
 inline: true
 related_posts: false
 ---
